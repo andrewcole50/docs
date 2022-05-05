@@ -3,6 +3,7 @@
 <PageHeader />
 
 <iframe src="https://www.youtube.com/embed/iJ56JCtPHQ8" allowfullscreen="" frameborder="0" height="360" width="640" class="fr-draggable"></iframe><br>
+
 The alert system allows users to build their own alerts or use pre-defined alerts to cause notices and/or emails to be generated based upon certain events within the system.
 Alerts are created via a two step process:
 PADEF.E
